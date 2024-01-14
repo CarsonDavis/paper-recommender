@@ -1,1 +1,2 @@
 weaviate-client==4.4b2
+langflow==0.6.4
